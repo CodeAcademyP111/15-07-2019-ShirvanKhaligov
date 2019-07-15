@@ -1,0 +1,7 @@
+C:\Users\SHIRVAN\Desktop\everthing\15iyullkonsol\15iyullkonsol\obj\Debug\15iyullkonsol.csprojResolveAssemblyReference.cache
+C:\Users\SHIRVAN\Desktop\everthing\15iyullkonsol\15iyullkonsol\obj\Debug\15iyullkonsol.csproj.CoreCompileInputs.cache
+C:\Users\SHIRVAN\Desktop\everthing\15iyullkonsol\15iyullkonsol\bin\Debug\15iyullkonsol.exe.config
+C:\Users\SHIRVAN\Desktop\everthing\15iyullkonsol\15iyullkonsol\bin\Debug\15iyullkonsol.exe
+C:\Users\SHIRVAN\Desktop\everthing\15iyullkonsol\15iyullkonsol\bin\Debug\15iyullkonsol.pdb
+C:\Users\SHIRVAN\Desktop\everthing\15iyullkonsol\15iyullkonsol\obj\Debug\15iyullkonsol.exe
+C:\Users\SHIRVAN\Desktop\everthing\15iyullkonsol\15iyullkonsol\obj\Debug\15iyullkonsol.pdb
